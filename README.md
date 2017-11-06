@@ -6,7 +6,7 @@ NOTE - This program is designed to work with .PNG pictures and .txt files only. 
 
 This Program is designed to hide text or .txt files inside an image using visual pixel distortion. Why this method may be visible to the human eye, current steganography detection techniques have a much harder time detecting it. Currently, this program uses the base image as a comparison or “key” to retrieve the hidden text. By comparing the encrypted image with the base image, this program can retrieve the text that was stored and outputs it to a .txt file. 
 
-Here are the following functions (are case insensitive)
+Here are the following command line functions (are case insensitive)
 		
 		-e ==> Encrypt Text into Image. Can be used in the following formats:
 			-e [Base PNG path to be encrypted] [path of .txt file to encrypt into image]
