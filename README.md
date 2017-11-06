@@ -39,4 +39,4 @@ Here are the following functions (are case insensitive)
 						* Will request valid path of PNG to test
 						* Will request valid Denstiy range (1-100)
 				
--i ==> Print info for this program to console.
+		-i ==> Print info for this program to console.
